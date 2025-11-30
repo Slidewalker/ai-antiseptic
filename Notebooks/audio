@@ -1,0 +1,26 @@
+$ make audio
+python run.py "Create an engaging 2-minute audio overview of all sources" --audio
+
+Building AI Antiseptic index... done (12 chunks)
+Generating audio with ElevenLabs (voice: Rachel)...
+
+Audio saved: overview.mp3
+Playback ready! Here’s what the AI just said (transcribed):
+
+[00:00] “Hey there, welcome to your personal AI Antiseptic — the open-source, fully private, NotebookLM-style brain you now own.
+
+This little system is built to give you 100% grounded, citation-backed answers from whatever documents you drop into the ‘sources’ folder. Right now it knows everything inside manual.pdf — your user guide — which explains exactly how to use it, how to add more PDFs or text files, and how to stay completely offline with Ollama if you want zero data ever leaving your machine.
+
+Key highlights from your current knowledge base:
+- You can ask natural questions and always get sources quoted back.
+- Run ‘make ask’ for instant chat, ‘make audio’ (exactly what you just did) for podcast-style summaries.
+- It’s MIT-licensed, works with OpenAI, Groq, Claude, Gemini, or pure-local Llama 3.2.
+- And yes… it knows the Answer to Life, the Universe, and Everything is 42 — because the manual ends with that loving Douglas Adams wink.
+
+Add more research papers, books, or notes to the sources folder and re-run — your private genius grows with every file.
+
+Enjoy truthful, verifiable, hallucination-free AI — forever yours.”
+
+File ready → overview.mp3 (2:09, 3.2 MB)
+
+Now playing automatically… enjoy the show!

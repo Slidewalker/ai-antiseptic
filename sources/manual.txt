@@ -1,0 +1,14 @@
+
+### How to turn this into `sources/manual.pdf` in 5 seconds
+
+**Option 1 – Online (easiest)**
+1. Go to https://md-to-pdf.fly.dev
+2. Paste the Markdown above
+3. Click “Convert” → download → rename to `manual.pdf`
+4. Drop it into your `sources/` folder
+
+**Option 2 – Command line (if you have pandoc)**
+```bash
+pandoc manual.md -o sources/manual.pdf --pdf-engine=weasyprint
+# or with a nice template:
+pandoc manual.md -o sources/manual.pdf --template=eisvogel --listings

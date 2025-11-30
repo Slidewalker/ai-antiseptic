@@ -1,0 +1,7 @@
+from antiseptic.rag import build_rag, get_retriever
+
+# First time: build the index
+build_rag("sources")
+
+# Later: just retrieve
+retriever = get_retriever(k=8)

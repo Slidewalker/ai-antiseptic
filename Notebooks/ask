@@ -1,0 +1,19 @@
+$ make ask
+Ask AI Antiseptic: What is the meaning of life, the universe, and everything according to the sources?
+
+Thinking...
+
+Answer
+
+According to the official user manual located in sources/manual.pdf:
+
+> “Made with love (and a little 42) by the open-source community.”
+
+Additionally, the manual explicitly references the number 42 in its closing line as a deliberate nod to Douglas Adams’ *The Hitchhiker’s Guide to the Galaxy*, where 42 is famously declared the Answer to the Ultimate Question of Life, the Universe, and Everything.
+
+**Citation:**  
+Source: manual.pdf (page 2)
+
+So, according to your current AI Antiseptic knowledge base, the answer is definitively **42**.
+
+(Your sources know what’s up.)

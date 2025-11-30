@@ -1,0 +1,17 @@
+langchain==0.3.1
+langchain-community
+langchain-ollama
+langchain-groq
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+chromadb
+pypdf
+unstructured[all-docs]
+sentence-transformers
+rich
+typer[all]
+python-dotenv
+elevenlabs>=1.0
+openai-whisper
+pydantic
